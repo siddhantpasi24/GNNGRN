@@ -1,0 +1,9 @@
+k,true_edges_in_top_k,precision_at_k,model
+50,2,0.04,full_model
+100,3,0.03,full_model
+250,8,0.032,full_model
+500,11,0.022,full_model
+50,2,0.04,no_priors
+100,3,0.03,no_priors
+250,8,0.032,no_priors
+500,11,0.022,no_priors
