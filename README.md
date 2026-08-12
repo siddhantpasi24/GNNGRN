@@ -1,1 +1,1 @@
-# GNNGEN
+# GNNGRN
